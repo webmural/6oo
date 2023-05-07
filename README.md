@@ -1,21 +1,14 @@
-## [~`div`~ deev](index.html) [mural](https://webmural.com/deev)
+## [`6oo`](index.html) [mural](https://webmural.com/6oo)
 
-* [RIP](https://webmural.com/jaguar) [SIP](https://webmural.com/ohm)
-* [roam](https://webmural.com/nature) [gull](https://webmural.com/ol)
-* [dye](https://webmural.com/cumin) [nap](https://webmural.com/taze)
-* [opem](https://webmural.com/pome) [chem](https://webmural.com/crayon)
-* [`swirl`](https://webmural.com/swirl)
+### [color](6oo.css) [morf](https://webmural.com/deev)
 
-### [color](deev.css) [morf](https://webmural.com/aya)
-
-* `mediumpurple`
-* `transition`
-* `transparent`
+* `border-radius`
+* `coral` 
 * `gradient`
-* `filter`
+* `hue-rotate`
+* `transition: 600ms`
+* `shadow`
 
-### [you flow](dela.css)
+### [you goo](goo.css)
 
-* `fantasy` `cursive` `sans-serif`
-* `flex` `nav`
-* `orientation` `writing-mode`
+`flex` `nav` with [gooey shadow](https://webmural.com/6oo)
